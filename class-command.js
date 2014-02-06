@@ -58,7 +58,7 @@ Command.prototype.addFallbackCommand = function addFallbackCommand( command ){
 
 Command.prototype.addParallelCommand = function addParallelCommand( command ){
 	if( "commandList" in this ){
-		
+
 	}
 };
 
